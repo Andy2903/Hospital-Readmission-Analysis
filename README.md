@@ -12,7 +12,7 @@ Using a consolidated healthcare dataset featuring standardized ICD codes, this p
 1. **Data Cleaning & Wrangling (Python):** 
    - Handled missing values, formatted data types, and validated standardized ICD codes using Pandas.
    - Performed exploratory data analysis (EDA) with inline visual checkpoints to understand data distributions before reporting.
-   - Core file: `data_cleaning.ipynb`
+   - Core file: `Hospital readmission Analysis.ipynb`
 
 2. **Data Visualization & Analytics (Power BI):**
    - Imported the dataset cleaned to create columns/measures using conditions and DAX to design an interactive executive dashboard.
@@ -33,5 +33,5 @@ Analyzing a cohort of **100K total patients** revealed several critical operatio
 ---
 
 ## 📁 Repository Structure
-* `data_cleaning.ipynb` - Python notebook containing data extraction, processing steps, and exploratory visual analysis notes.
+* `Hospital readmission Analysis.ipynb` - Python notebook containing data extraction, processing steps, and exploratory visual analysis notes.
 * `dashboard.pbix` - Complete, interactive Power BI dashboard file.
