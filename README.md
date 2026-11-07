@@ -17,7 +17,7 @@ Using a consolidated healthcare dataset featuring standardized ICD codes, this p
 2. **Data Visualization & Analytics (Power BI):**
    - Imported the dataset cleaned to create columns/measures using conditions and DAX to design an interactive executive dashboard.
    - Tracked critical healthcare KPIs, patient risk distributions, and clinical factors influencing return rates.
-   - Core file: `dashboard.pbix`
+   - Core file: `HRA.pbix`
 
 ---
 
@@ -34,4 +34,4 @@ Analyzing a cohort of **100K total patients** revealed several critical operatio
 
 ## 📁 Repository Structure
 * `Hospital readmission Analysis.ipynb` - Python notebook containing data extraction, processing steps, and exploratory visual analysis notes.
-* `dashboard.pbix` - Complete, interactive Power BI dashboard file.
+* `HRA.pbix` - Complete, interactive Power BI dashboard file.
